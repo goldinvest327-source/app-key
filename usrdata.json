@@ -11,4 +11,11 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     }
+    
+    {
+        "device_id": "573640dea6891977",
+        "key": "810044",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
 ]
