@@ -1,4 +1,5 @@
-offline-deviceline-device "dialog_enable": true,
+{
+  "dialog_enable": true,
   "online_enable": true,
 
   "title": "Premium Login",
@@ -21,12 +22,12 @@ offline-deviceline-device "dialog_enable": true,
     },
     {
       "device_id": "573640dea6891977",
-      "password": "aysan@00100",
+      "password": "aysan@123",
       "expire_date": "2026-01-15"
     },
     {
-      "device_id": "573640dea6891977",
-      "password": "aysan@123",
+      "device_id": "offline-device",
+      "password": "1234",
       "expire_date": "2026-01-01"
     }
   ]
